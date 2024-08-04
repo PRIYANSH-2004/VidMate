@@ -19,7 +19,7 @@ const [videos, setVideos] = useState([])
           <Sidebar selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory}/>
 
           <Typography className='copyright' variant='body' sx={{mt:1.5, color:'#fff'}}>
-            Coyright 2022 JSM media
+           Created By: Priyansh❤️
           </Typography>
       </Box>
 
